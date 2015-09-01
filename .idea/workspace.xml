@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33063d3b-4f9a-4359-9cc4-2ef682778626" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/style.min.css?36f83294ab51858db8bb1664076e60d8" afterPath="$PROJECT_DIR$/assets/css/style.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/guhposter2.png?fe1d6e9b5e74d47cb7ec17ad876a567e" afterPath="$PROJECT_DIR$/assets/img/guhposter2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/judges/craig.png?d4b32df0fa69d8b6cd56ca7fcf955455" afterPath="$PROJECT_DIR$/assets/img/judges/craig.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/judges/gemma.png?e65e97fcc51a835f2fb5ea17787005af" afterPath="$PROJECT_DIR$/assets/img/judges/gemma.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/judges/tba.png?d4b32df0fa69d8b6cd56ca7fcf955455" afterPath="$PROJECT_DIR$/assets/img/judges/tba.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/logo.png?fe1d6e9b5e74d47cb7ec17ad876a567e" afterPath="$PROJECT_DIR$/assets/img/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/apadmi.png?9de4cb971a3febb6fb1a2ec3478d2293" afterPath="$PROJECT_DIR$/assets/img/sponsors/apadmi.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/autotrader.png?e65e97fcc51a835f2fb5ea17787005af" afterPath="$PROJECT_DIR$/assets/img/sponsors/autotrader.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/barclays.gif?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/sponsors/barclays.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/bloomberg.gif?26966672398c3b39eb80526304af791f" afterPath="$PROJECT_DIR$/assets/img/sponsors/bloomberg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/bodylabs2.png?d4b32df0fa69d8b6cd56ca7fcf955455" afterPath="$PROJECT_DIR$/assets/img/sponsors/bodylabs2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/capitalone.png?26966672398c3b39eb80526304af791f" afterPath="$PROJECT_DIR$/assets/img/sponsors/capitalone.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/codethink.png?9ba4223b876c7338ef48d6e16e042257" afterPath="$PROJECT_DIR$/assets/img/sponsors/codethink.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/cssoc.png?8367d01fc25bfdb9463cc01096ffc874" afterPath="$PROJECT_DIR$/assets/img/sponsors/cssoc.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/escalator.png?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/sponsors/escalator.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/estimote.png?26966672398c3b39eb80526304af791f" afterPath="$PROJECT_DIR$/assets/img/sponsors/estimote.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/eventbrite.png?e901195715534b5e67ed03e2d941ab53" afterPath="$PROJECT_DIR$/assets/img/sponsors/eventbrite.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/ghs2.png?eaea96441a76bf8fc57384298e9872c4" afterPath="$PROJECT_DIR$/assets/img/sponsors/ghs2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/github.png?01d5e77bf39c3c122b7823a47fdac595" afterPath="$PROJECT_DIR$/assets/img/sponsors/github.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/hello.jpg?d4b32df0fa69d8b6cd56ca7fcf955455" afterPath="$PROJECT_DIR$/assets/img/sponsors/hello.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/hg.png?7a13ca2cd14346b47faf239c9b7c2455" afterPath="$PROJECT_DIR$/assets/img/sponsors/hg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/included.png?e901195715534b5e67ed03e2d941ab53" afterPath="$PROJECT_DIR$/assets/img/sponsors/included.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/layershift.png?24ac18781e17724e1b3a234b07b7e093" afterPath="$PROJECT_DIR$/assets/img/sponsors/layershift.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/leap.png?26966672398c3b39eb80526304af791f" afterPath="$PROJECT_DIR$/assets/img/sponsors/leap.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/mentrep.png?8367d01fc25bfdb9463cc01096ffc874" afterPath="$PROJECT_DIR$/assets/img/sponsors/mentrep.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/mlh.png?391abf9130f65a83179a40ecba66ca2b" afterPath="$PROJECT_DIR$/assets/img/sponsors/mlh.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/nfcring.png?36f83294ab51858db8bb1664076e60d8" afterPath="$PROJECT_DIR$/assets/img/sponsors/nfcring.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/noq2.png?d4b32df0fa69d8b6cd56ca7fcf955455" afterPath="$PROJECT_DIR$/assets/img/sponsors/noq2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/oculus.png?26966672398c3b39eb80526304af791f" afterPath="$PROJECT_DIR$/assets/img/sponsors/oculus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/paypal.png?26966672398c3b39eb80526304af791f" afterPath="$PROJECT_DIR$/assets/img/sponsors/paypal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/pebble.png?26966672398c3b39eb80526304af791f" afterPath="$PROJECT_DIR$/assets/img/sponsors/pebble.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/promanchester.jpg?d4b32df0fa69d8b6cd56ca7fcf955455" afterPath="$PROJECT_DIR$/assets/img/sponsors/promanchester.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/qiqqa.png?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/sponsors/qiqqa.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/sendgrid.png?a799642b7ac4837b1ff878fd18d40244" afterPath="$PROJECT_DIR$/assets/img/sponsors/sendgrid.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/smexperts.jpg?d4b32df0fa69d8b6cd56ca7fcf955455" afterPath="$PROJECT_DIR$/assets/img/sponsors/smexperts.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/spark.png?26966672398c3b39eb80526304af791f" afterPath="$PROJECT_DIR$/assets/img/sponsors/spark.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/techsylvania.png?eaea96441a76bf8fc57384298e9872c4" afterPath="$PROJECT_DIR$/assets/img/sponsors/techsylvania.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/telcom.png?d4b32df0fa69d8b6cd56ca7fcf955455" afterPath="$PROJECT_DIR$/assets/img/sponsors/telcom.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/thalmic.png?26966672398c3b39eb80526304af791f" afterPath="$PROJECT_DIR$/assets/img/sponsors/thalmic.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/trello.png?7a13ca2cd14346b47faf239c9b7c2455" afterPath="$PROJECT_DIR$/assets/img/sponsors/trello.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/uom.png?8367d01fc25bfdb9463cc01096ffc874" afterPath="$PROJECT_DIR$/assets/img/sponsors/uom.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/up.png?8367d01fc25bfdb9463cc01096ffc874" afterPath="$PROJECT_DIR$/assets/img/sponsors/up.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/waffle.png?36f83294ab51858db8bb1664076e60d8" afterPath="$PROJECT_DIR$/assets/img/sponsors/waffle.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/sponsors/wata.png?d4b32df0fa69d8b6cd56ca7fcf955455" afterPath="$PROJECT_DIR$/assets/img/sponsors/wata.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/anna.jpg?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/team/anna.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/charlie.jpg?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/team/charlie.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/cornelia.jpg?eaea96441a76bf8fc57384298e9872c4" afterPath="$PROJECT_DIR$/assets/img/team/cornelia.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/dainis.jpg?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/team/dainis.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/daniel.jpg?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/team/daniel.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/diana.jpg?2207a3bb7b3b8ea7e913eb80e85519d7" afterPath="$PROJECT_DIR$/assets/img/team/diana.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/jonathon.jpg?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/team/jonathon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/josh.jpg?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/team/josh.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/mark.jpg?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/team/mark.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/mihai.jpg?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/team/mihai.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/miso.jpg?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/team/miso.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/pez.jpg?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/team/pez.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/sami.jpg?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/team/sami.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/sebastian.jpg?d4b32df0fa69d8b6cd56ca7fcf955455" afterPath="$PROJECT_DIR$/assets/img/team/sebastian.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/team/tim.jpg?715c328980be4b619db2a6f862bc44d7" afterPath="$PROJECT_DIR$/assets/img/team/tim.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/guh.js?26966672398c3b39eb80526304af791f" afterPath="$PROJECT_DIR$/assets/js/guh.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery-2.1.3.min.js?391abf9130f65a83179a40ecba66ca2b" afterPath="$PROJECT_DIR$/assets/js/jquery-2.1.3.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/video/guhloop.mp4?391abf9130f65a83179a40ecba66ca2b" afterPath="$PROJECT_DIR$/assets/video/guhloop.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="greatunihack.co.uk.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="greatunihack.co.uk" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5837838">
+              <caret line="125" column="36" selection-start-line="125" selection-start-column="36" selection-end-line="125" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-467" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greatunihack.co.uk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greatunihack.co.uk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greatunihack.co.uk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greatunihack.co.uk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greatunihack.co.uk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/greatunihack.co.uk/index.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33063d3b-4f9a-4359-9cc4-2ef682778626" name="Default" comment="" />
+      <created>1441138433393</created>
+      <option name="number" value="Default" />
+      <updated>1441138433393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-467" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.4966118" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.50338817" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5837838">
+          <caret line="125" column="36" selection-start-line="125" selection-start-column="36" selection-end-line="125" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
